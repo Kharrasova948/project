@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/1644942149_41-phonoteka-org-p-podvodnoe-tsarstvo-fon-42.jpg);
+}
+.form {
+    display: block;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid #2727d9;
+
+}
+.form-header {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 50px;
+    color: #2727d9;
+}
+.form input {
+    margin: 11px auto;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    width: 300px;
+    padding: 17px;
+    font-size: 17px;
+    border: 1px solid #333;
+}
+.btn {
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 900;
+    color: #fff;
+    background-color: #2727d9;
+    border: none;
+    width: 300px;
+    height: 60px;
+    display: block;
+    margin: 11px auto;
+}
